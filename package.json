@@ -1,0 +1,19 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "react application used for sorting and filtering employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganfmorro/Employee-Directory.git"
+  },
+  "author": "Logan Morro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loganfmorro/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/loganfmorro/Employee-Directory#readme"
+}
