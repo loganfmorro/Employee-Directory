@@ -20,6 +20,7 @@ https://github.com/loganfmorro/Employee-Directory
 https://loganfmorro.github.io/Employee-Directory
 
 ## Demo Images/Video
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68932638/109612999-8feeb600-7afe-11eb-92ba-e5573c431732.gif)
 
 ## Description
  A full-stack application. An employee directory developed using REACT, Node, Express. Following the MVC design pattern; using Node
