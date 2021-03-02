@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/loganfmorro/Employee-Directory/static/css/main.fa8813e4.chunk.css",
+    "main.js": "/loganfmorro/Employee-Directory/static/js/main.98007a06.chunk.js",
+    "main.js.map": "/loganfmorro/Employee-Directory/static/js/main.98007a06.chunk.js.map",
+    "runtime-main.js": "/loganfmorro/Employee-Directory/static/js/runtime-main.b42f0e47.js",
+    "runtime-main.js.map": "/loganfmorro/Employee-Directory/static/js/runtime-main.b42f0e47.js.map",
+    "static/js/2.dcc10345.chunk.js": "/loganfmorro/Employee-Directory/static/js/2.dcc10345.chunk.js",
+    "static/js/2.dcc10345.chunk.js.map": "/loganfmorro/Employee-Directory/static/js/2.dcc10345.chunk.js.map",
+    "index.html": "/loganfmorro/Employee-Directory/index.html",
+    "static/css/main.fa8813e4.chunk.css.map": "/loganfmorro/Employee-Directory/static/css/main.fa8813e4.chunk.css.map",
+    "static/js/2.dcc10345.chunk.js.LICENSE.txt": "/loganfmorro/Employee-Directory/static/js/2.dcc10345.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b42f0e47.js",
+    "static/js/2.dcc10345.chunk.js",
+    "static/css/main.fa8813e4.chunk.css",
+    "static/js/main.98007a06.chunk.js"
+  ]
+}
