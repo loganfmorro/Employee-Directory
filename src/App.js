@@ -2,8 +2,9 @@ import React, { useState } from 'react';
 import Layout from "./components/Layout";
 import Header from "./components/Header";
 import Navigation from "./components/Navigation";
-import EmployeeCardList from "./components/employeeCardList";
+import EmployeeCardList from "./components/EmployeeCardList";
 import Footer from "./components/Footer";
+import employees from "./data/employees.json";
 
 function App() {
     const [ searchTerm, setSearchTerm ] = useState("");
