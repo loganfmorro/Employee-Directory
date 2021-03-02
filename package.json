@@ -15,8 +15,6 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "npm start",
-    "install": "npm install",
     "build": "npm build",
     "heroku-postbuild": "npm run build"
   },
